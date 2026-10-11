@@ -2,7 +2,7 @@
 
 A structured record of my JavaScript learning and practice.
 
-This repository contains the concepts I have completed so far, with simple examples and practice code that I can revisit as I continue learning JavaScript.
+This repository tracks the JavaScript concepts I study, the code I practise, and the progress I make as I build a strong foundation for frontend development.
 
 ## Topics Covered
 
@@ -11,6 +11,20 @@ This repository contains the concepts I have completed so far, with simple examp
 - Operators
 - Conditions
 - Functions
+- Arrays
+- Loops
+
+## Learning Progress
+
+| Topic | Status |
+| --- | --- |
+| Variables | Covered |
+| Data Types | Covered |
+| Operators | Covered |
+| Conditions | Covered |
+| Functions | Covered |
+| Arrays | Completed study and practice |
+| Loops | Completed study and practice |
 
 ## Repository Structure
 
@@ -20,11 +34,13 @@ javascript-learning/
 ├── data-types/
 ├── operators/
 ├── conditions/
-└── functions/
+├── functions/
+├── arrays/
+└── loops/
 ```
 
 ## Goal
 
-Build a strong JavaScript foundation through consistent practice, problem solving, and real-world application.
+Build a strong JavaScript foundation through consistent practice, problem solving, debugging, and real-world application.
 
 This repository will grow as I complete more JavaScript topics.
